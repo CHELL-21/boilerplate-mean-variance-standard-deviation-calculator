@@ -19,4 +19,4 @@ def calculate(list):
 
 
 
-
+https://github.com/CHELL-21/boilerplate-mean-variance-standard-deviation-calculator.git
